@@ -1,2 +1,2 @@
-# DSE220-Machine-Learning
+# Machine-Learning-Models-Test
 This contains machine learning projects.
